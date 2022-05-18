@@ -1,2 +1,2 @@
-KimHo                            	20220367
+KimHo            20220367
 Kookmin Univ. SW
